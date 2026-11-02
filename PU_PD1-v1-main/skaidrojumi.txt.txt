@@ -5,4 +5,4 @@ c) Es pārbaudītu, vai tiek izmantoti pareizie dati
 
 
 J2. Datnes kodējums (2 p.)
-a) kļūda kodā
+a) nepareizs izplatītājs
