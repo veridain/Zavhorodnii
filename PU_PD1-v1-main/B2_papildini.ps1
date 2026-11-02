@@ -8,8 +8,8 @@
 # ----------------------------------------------------------------------                                                                                                Pēc saglabāšanas izvadi Write-Host rindu "Fails gatavs".
 
 $apturetie = Get-Service |
-    Where-Object { $_.Status -eq "Stopped" } |
-    Sort-Object Name |
-    Select-Object Name, Status
+Where-Object { $_.Status -eq "Stopped" } |
+Sort-Object Name |
+Select-Object Name, Status
 
-# TODO: saglabā $apturetie failā apturetie.csv
+$apturetie | Export-Csv -Path "apturetie.csv" -NoTypeInformation -Encoding UTF8
