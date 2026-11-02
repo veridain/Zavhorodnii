@@ -1,0 +1,8 @@
+J1. Klusā kļūda (4 p.)
+a) Es pārbaudītu, cik lielā mērā tas atšķiras no gaidītā
+b) Es pārbaudītu, vai kods ir uzrakstīts pareizi un kur potenciāli varētu būt kļūda
+c) Es pārbaudītu, vai tiek izmantoti pareizie dati
+
+
+J2. Datnes kodējums (2 p.)
+a) kļūda kodā
